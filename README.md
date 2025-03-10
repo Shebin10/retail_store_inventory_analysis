@@ -6,16 +6,6 @@ The goal of this project is to analyze retail store inventory and sales patterns
 ### Dataset Used
 https://github.com/Shebin10/retail_store_inventory_analysis/blob/main/retail%20inventory%20analysis.sql
 
-The dataset contains information on:
-
-Product ID, Category, Price, and Competitor Pricing
-
-Inventory Level and Units Sold
-
-Discounts, Seasonality, Weather Conditions
-
-Demand Forecast vs. Actual Sales
-
 ### Analysis Performed
 1️⃣ Inventory & Sales Analysis
 
