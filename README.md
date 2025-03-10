@@ -37,6 +37,7 @@ Overstocked and understocked products
 
 ### Tools Used
 SQL for data extraction and analysis
+
 MySQL database
 
 ### Conclusion
